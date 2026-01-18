@@ -1,0 +1,44 @@
+name: famelack-channels m3u
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout our repo
+        uses: actions/checkout@v4
+
+      - name: check for new channels
+        id: check_repo
+        run: |
+          _latest_remote=$(curl -s https://api.github.com/repos/famelack/famelack-channels/commits/main |jq -r '.sha')
+          
+          if [ "$(cat .latest 2>/dev/null)" == "$_latest_remote" ]; then
+            echo "update=false" >> $GITHUB_OUTPUT
+          else
+            echo "update=true" >> $GITHUB_OUTPUT
+            echo "$_latest" > .latest
+          fi
+
+      - name: checkout new channels
+        if: steps.check_repo.outputs.update == 'true'
+        run: |
+          git clone https://github.com/famelack/famelack-channels
+
+      - name: build m3u
+        if: steps.check_repo.outputs.update == 'true'
+        run: python famelack-channels.py
+
+      - name: update our repo
+        if: steps.check_repo.outputs.update == 'true'
+        run: |
+          git config --global user.name "DEvmIb"
+          git config --global user.email "ad0lar.pasture129@passmail.net"
+          git add .latest m3u/*.m3u
+          git commit -m "update"
+          git push
