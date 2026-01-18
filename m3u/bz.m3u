@@ -17,17 +17,15 @@ https://streamer2.nexgen.bz/13-HITZ/index.m3u8
 https://streamer2.nexgen.bz/01-LOVE/index.m3u8
 #EXTINF:0001 tvg-id="xVEhUpd4Fae9NT" tvg-chno="9" group-title="famelack (bz) [bz] [False]" tvg-logo="", Max TV
 https://streamer2.nexgen.bz/14-MAX/index.m3u8
-#EXTINF:0001 tvg-id="qGk8ZFvxeqRCjY" tvg-chno="10" group-title="famelack (bz) [bz] [False]" tvg-logo="", PGTV
-https://streamer2.nexgen.bz/16-PGTV/index.m3u8
-#EXTINF:0001 tvg-id="teIK1PDTIalJ3z" tvg-chno="11" group-title="famelack (bz) [bz] [False]" tvg-logo="", PlusTV
+#EXTINF:0001 tvg-id="teIK1PDTIalJ3z" tvg-chno="10" group-title="famelack (bz) [bz] [False]" tvg-logo="", PlusTV
 https://streamer2.nexgen.bz/04-PLUS/index.m3u8
-#EXTINF:0001 tvg-id="Fg8YY5sdykNKgc" tvg-chno="12" group-title="famelack (bz) [bz] [False]" tvg-logo="", The National Channel 10
+#EXTINF:0001 tvg-id="Fg8YY5sdykNKgc" tvg-chno="11" group-title="famelack (bz) [bz] [False]" tvg-logo="", The National Channel 10
 https://streamer2.nexgen.bz/10-TNC/index.m3u8
-#EXTINF:0001 tvg-id="dSUYbIZ4emOJHZ" tvg-chno="13" group-title="famelack (bz) [bz] [False]" tvg-logo="", TNC Sports
+#EXTINF:0001 tvg-id="dSUYbIZ4emOJHZ" tvg-chno="12" group-title="famelack (bz) [bz] [False]" tvg-logo="", TNC Sports
 https://streamer1.nexgen.bz:443/TNC_SPORTS/index.m3u8
-#EXTINF:0001 tvg-id="WCpRbp0izA4WVb" tvg-chno="14" group-title="famelack (bz) [bz] [False]" tvg-logo="", Vibes Media
+#EXTINF:0001 tvg-id="WCpRbp0izA4WVb" tvg-chno="13" group-title="famelack (bz) [bz] [False]" tvg-logo="", Vibes Media
 https://streamer2.nexgen.bz:443/09-POSVIBES/index.m3u8
-#EXTINF:0001 tvg-id="etYUC1QwcWuZ8e" tvg-chno="15" group-title="famelack (bz) [bz] [False]" tvg-logo="", WAVE TV
+#EXTINF:0001 tvg-id="etYUC1QwcWuZ8e" tvg-chno="14" group-title="famelack (bz) [bz] [False]" tvg-logo="", WAVE TV
 https://streamer2.nexgen.bz/08-WAVE/index.m3u8
-#EXTINF:0001 tvg-id="zF2JjAUiKWRNse" tvg-chno="16" group-title="famelack (bz) [bz] [False]" tvg-logo="", XTV
+#EXTINF:0001 tvg-id="zF2JjAUiKWRNse" tvg-chno="15" group-title="famelack (bz) [bz] [False]" tvg-logo="", XTV
 https://streamer2.nexgen.bz/02-KREM/index.m3u8

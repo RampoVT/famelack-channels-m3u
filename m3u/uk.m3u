@@ -231,7 +231,5 @@ https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="pmINkM6RSJSVHl" tvg-chno="116" group-title="famelack (uk) [uk] [False]" tvg-logo="", WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="117" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
-https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="fJaBVCiSq1YhYp" tvg-chno="118" group-title="famelack (uk) [uk] [False]" tvg-logo="", Yu-Gi-Oh!
+#EXTINF:0001 tvg-id="fJaBVCiSq1YhYp" tvg-chno="117" group-title="famelack (uk) [uk] [False]" tvg-logo="", Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8

@@ -153,8 +153,8 @@ https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
 #EXTINF:0001 tvg-id="lvPUiyBGTf9h6a" tvg-chno="77" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto 2
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
-#EXTINF:0001 tvg-id="EEWgpub612Jk4L" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto Brasa Music
-https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:0001 tvg-id="Arhd6FvJ684mYa" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto MaLive
+https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:0001 tvg-id="uijzEdZpPY4boJ" tvg-chno="79" group-title="famelack (nl) [nl] [False]" tvg-logo="", Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:0001 tvg-id="4qAiXmvkgXlKqP" tvg-chno="80" group-title="famelack (nl) [nl] [False]" tvg-logo="", Schie TV (576i)

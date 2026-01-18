@@ -39,22 +39,22 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
+#EXTINF:0001 tvg-id="RdxKyXaV9qtXPb" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:0001 tvg-id="KSc2NtlozO0Aw7" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", Radio Turrialba TV Sports
-https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
-#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
+#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
-#EXTINF:0001 tvg-id="KWtXBE79zVCsGO" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", San José TV
+#EXTINF:0001 tvg-id="KWtXBE79zVCsGO" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", San José TV
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:0001 tvg-id="RYVkiPv8DNw6UC" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", Sarapiqui TV
+#EXTINF:0001 tvg-id="RYVkiPv8DNw6UC" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", Sarapiqui TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:0001 tvg-id="2ogrHzPUOLVEgc" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", SOY Plancha TV
+#EXTINF:0001 tvg-id="2ogrHzPUOLVEgc" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:0001 tvg-id="TBkO2VeN8pxR9c" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", TDtv
+#EXTINF:0001 tvg-id="TBkO2VeN8pxR9c" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", TDtv
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:0001 tvg-id="FY9JMfvI9sWSMw" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleBrunca
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:0001 tvg-id="GHvLc9YKjbjb4r" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:0001 tvg-id="0dNDSI0p6Xtcvm" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleMas
