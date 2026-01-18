@@ -33,7 +33,7 @@ try:
                         m3u += f'{channel["iptv_urls"][0]}\n'
                         m3u_all += f'#EXTINF:0001 tvg-id="{channel["nanoid"]}" tvg-chno="{num_all}" group-title="famelack ({file.stem}) [{channel["country"]}] [{channel["isGeoBlocked"]}]" tvg-logo="", {channel["name"]}\n'
                         m3u_all += f'{channel["iptv_urls"][0]}\n'
-                        if country == "de" or country == "ad" or country == "ch":
+                        if country == "de" or country == "at" or country == "ch":
                             m3u_dach += f'#EXTINF:0001 tvg-id="{channel["nanoid"]}" tvg-chno="{num_dach}" group-title="famelack ({file.stem}) [{channel["country"]}] [{channel["isGeoBlocked"]}]" tvg-logo="", {channel["name"]}\n'
                             m3u_dach += f'{channel["iptv_urls"][0]}\n'
                             num_dach += 1
