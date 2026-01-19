@@ -33,34 +33,34 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:0001 tvg-id="mHg6rpXR6VaVXj" tvg-chno="17" group-title="famelack (ro) [ro] [False]" tvg-logo="", Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
-#EXTINF:0001 tvg-id="nbZMDeOIAOPG4m" tvg-chno="18" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Dance
+#EXTINF:0001 tvg-id="4ghiPmfhBHh5Ly" tvg-chno="18" group-title="famelack (ro) [ro] [False]" tvg-logo="", IasiTV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:0001 tvg-id="nbZMDeOIAOPG4m" tvg-chno="19" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:0001 tvg-id="s2CfErSAqt8tzT" tvg-chno="19" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Manele
+#EXTINF:0001 tvg-id="s2CfErSAqt8tzT" tvg-chno="20" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:0001 tvg-id="dwPib6Di7weUvt" tvg-chno="20" group-title="famelack (ro) [ro] [False]" tvg-logo="", Informatia TV
+#EXTINF:0001 tvg-id="dwPib6Di7weUvt" tvg-chno="21" group-title="famelack (ro) [ro] [False]" tvg-logo="", Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:0001 tvg-id="E9smyEh0BaQpif" tvg-chno="21" group-title="famelack (ro) [ro] [False]" tvg-logo="", JOB TV
+#EXTINF:0001 tvg-id="E9smyEh0BaQpif" tvg-chno="22" group-title="famelack (ro) [ro] [False]" tvg-logo="", JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
-#EXTINF:0001 tvg-id="H8lAJKYghBWOpW" tvg-chno="22" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D
+#EXTINF:0001 tvg-id="H8lAJKYghBWOpW" tvg-chno="23" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:0001 tvg-id="3hq4NpWZFKw05F" tvg-chno="23" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kiss TV
+#EXTINF:0001 tvg-id="3hq4NpWZFKw05F" tvg-chno="24" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:0001 tvg-id="NodY8gBnmYHwO8" tvg-chno="24" group-title="famelack (ro) [ro] [False]" tvg-logo="", Magic TV
+#EXTINF:0001 tvg-id="NodY8gBnmYHwO8" tvg-chno="25" group-title="famelack (ro) [ro] [False]" tvg-logo="", Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:0001 tvg-id="LOoaceDLue8eJw" tvg-chno="25" group-title="famelack (ro) [ro] [False]" tvg-logo="", MediCOOL TV
+#EXTINF:0001 tvg-id="LOoaceDLue8eJw" tvg-chno="26" group-title="famelack (ro) [ro] [False]" tvg-logo="", MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-#EXTINF:0001 tvg-id="oihBZjU4iojgJW" tvg-chno="26" group-title="famelack (ro) [ro] [False]" tvg-logo="", Metropola TV
+#EXTINF:0001 tvg-id="oihBZjU4iojgJW" tvg-chno="27" group-title="famelack (ro) [ro] [False]" tvg-logo="", Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:0001 tvg-id="U81csRB9YHDFcc" tvg-chno="27" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mireasa
+#EXTINF:0001 tvg-id="U81csRB9YHDFcc" tvg-chno="28" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:0001 tvg-id="FOsU86TnzYmDGQ" tvg-chno="28" group-title="famelack (ro) [ro] [False]" tvg-logo="", MISA TV
+#EXTINF:0001 tvg-id="FOsU86TnzYmDGQ" tvg-chno="29" group-title="famelack (ro) [ro] [False]" tvg-logo="", MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-#EXTINF:0001 tvg-id="wAAXdhWFrvqJmH" tvg-chno="29" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mooz Dance
+#EXTINF:0001 tvg-id="wAAXdhWFrvqJmH" tvg-chno="30" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:0001 tvg-id="HXUJ0Y6Fs5W3Ui" tvg-chno="30" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mooz Hits
+#EXTINF:0001 tvg-id="HXUJ0Y6Fs5W3Ui" tvg-chno="31" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mooz Hits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:0001 tvg-id="2U91fowazsObgI" tvg-chno="31" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mooz Ro!
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:0001 tvg-id="CWCTvHjrmevuWH" tvg-chno="32" group-title="famelack (ro) [ro] [False]" tvg-logo="", Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:0001 tvg-id="GJqoGQwicVaUST" tvg-chno="33" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nasul TV
