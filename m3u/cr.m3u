@@ -3,10 +3,10 @@
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:0001 tvg-id="LA4o1ry7L0C9al" tvg-chno="2" group-title="famelack (cr) [cr] [False]" tvg-logo="", 360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:0001 tvg-id="baI44A3rZswWd9" tvg-chno="3" group-title="famelack (cr) [cr] [False]" tvg-logo="", Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:0001 tvg-id="H8TtlIKgrW2bwo" tvg-chno="4" group-title="famelack (cr) [cr] [False]" tvg-logo="", Antena Seis TV
+#EXTINF:0001 tvg-id="H8TtlIKgrW2bwo" tvg-chno="3" group-title="famelack (cr) [cr] [False]" tvg-logo="", Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:0001 tvg-id="X0fe1ozGC5qVsh" tvg-chno="4" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 1
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0001 tvg-id="9cN6rSKGfOi3ha" tvg-chno="5" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 3 KMK TV
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:0001 tvg-id="Z3J6UkFFEng975" tvg-chno="6" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 17 TV Nosara
@@ -57,15 +57,17 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:0001 tvg-id="0dNDSI0p6Xtcvm" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleMas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-#EXTINF:0001 tvg-id="Y3sTV1ejuknKgG" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV Sur Canal 14
+#EXTINF:0001 tvg-id="aeI6TVNDKNvZiP" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleSUR Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:0001 tvg-id="Y3sTV1ejuknKgG" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
+#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="32" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:0001 tvg-id="tTy2o9iN37Hvi8" tvg-chno="32" group-title="famelack (cr) [cr] [False]" tvg-logo="", Vintage Music
+#EXTINF:0001 tvg-id="tTy2o9iN37Hvi8" tvg-chno="33" group-title="famelack (cr) [cr] [False]" tvg-logo="", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="33" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
+#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="34" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="34" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
+#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="35" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:0001 tvg-id="CLjMxTVbFP2ZHP" tvg-chno="35" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurquí TV
+#EXTINF:0001 tvg-id="CLjMxTVbFP2ZHP" tvg-chno="36" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

@@ -21,18 +21,18 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:0001 tvg-id="9jkb1tHOSl1q2X" tvg-chno="11" group-title="famelack (cl) [cl] [False]" tvg-logo="", Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:0001 tvg-id="ObtiKhy4c7FM1e" tvg-chno="12" group-title="famelack (cl) [cl] [False]" tvg-logo="", Campus TV (Talca)
+#EXTINF:0001 tvg-id="lEIrmmraEZiCSk" tvg-chno="12" group-title="famelack (cl) [cl] [False]" tvg-logo="", Buin Somos Todos
+https://bst.buin.cl/0.m3u8
+#EXTINF:0001 tvg-id="ObtiKhy4c7FM1e" tvg-chno="13" group-title="famelack (cl) [cl] [False]" tvg-logo="", Campus TV (Talca)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="bL20OQOX6GoIrZ" tvg-chno="13" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 1 Nuble
+#EXTINF:0001 tvg-id="bL20OQOX6GoIrZ" tvg-chno="14" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="C9uUCmX5l4Ryir" tvg-chno="14" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 9 Bío Bío Televisión
+#EXTINF:0001 tvg-id="C9uUCmX5l4Ryir" tvg-chno="15" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 9 Bío Bío Televisión
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="DbKvAFoZa5ksBg" tvg-chno="15" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal ISB (Iglesia San Bernardo)
+#EXTINF:0001 tvg-id="DbKvAFoZa5ksBg" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal ISB (Iglesia San Bernardo)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="eko7uFhNP2g6vo" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chile Channel
+#EXTINF:0001 tvg-id="eko7uFhNP2g6vo" tvg-chno="17" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:0001 tvg-id="eDESw3Ox4wXwbn" tvg-chno="17" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:0001 tvg-id="itmATVZa5Ggr1u" tvg-chno="18" group-title="famelack (cl) [cl] [False]" tvg-logo="", Click TV (Coronel)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:0001 tvg-id="i7jOCnWyYw935a" tvg-chno="19" group-title="famelack (cl) [cl] [False]" tvg-logo="", Contivision
@@ -75,18 +75,18 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="zjUM7zUUhBPTQU" tvg-chno="38" group-title="famelack (cl) [cl] [False]" tvg-logo="", Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:0001 tvg-id="jjgl7AaKfJq0wX" tvg-chno="39" group-title="famelack (cl) [cl] [False]" tvg-logo="", Santa María Televisión
+#EXTINF:0001 tvg-id="G45spfYKl3BXh4" tvg-chno="39" group-title="famelack (cl) [cl] [False]" tvg-logo="", Radio Ritmo
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:0001 tvg-id="jjgl7AaKfJq0wX" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", Santa María Televisión
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="0C2d9cgVcqnI9d" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", SoloBáilalo
+#EXTINF:0001 tvg-id="0C2d9cgVcqnI9d" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", SoloBáilalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:0001 tvg-id="9LYMpZbMSRFBE5" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", SUR TV
+#EXTINF:0001 tvg-id="9LYMpZbMSRFBE5" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", SUR TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Ap4jlb2z9FPcau" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", T-Vinet
+#EXTINF:0001 tvg-id="Ap4jlb2z9FPcau" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", T-Vinet
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="okKQ8KDUVqmzeR" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak
+#EXTINF:0001 tvg-id="okKQ8KDUVqmzeR" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="v7CKSlcO8gjGok" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Televida
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:0001 tvg-id="Buf371rRZBbDSG" tvg-chno="45" group-title="famelack (cl) [cl] [False]" tvg-logo="", Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:0001 tvg-id="8fkAASWc8aexqU" tvg-chno="46" group-title="famelack (cl) [cl] [False]" tvg-logo="", Thema Televisión (La Serena)
