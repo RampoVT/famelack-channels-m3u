@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="2TeFmbSu18GnAQ" tvg-chno="1" group-title="famelack (bo) [bo] [False]" tvg-logo="", Cadena A
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:0001 tvg-id="qAN5sBGpkuc0D2" tvg-chno="1" group-title="famelack (bo) [bo] [False]" tvg-logo="", CEACOM TV
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:0001 tvg-id="hiCZpbwj9latCv" tvg-chno="2" group-title="famelack (bo) [bo] [False]" tvg-logo="", Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:0001 tvg-id="btaTHB02v7Y9B8" tvg-chno="3" group-title="famelack (bo) [bo] [False]" tvg-logo="", F10 HD
@@ -25,9 +25,7 @@ https://live.enhdtv.com:8081/8192/index.m3u8
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="13" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
 https://live.enhdtv.com:8081/8190/index.m3u8
-#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="14" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:0001 tvg-id="aiAxUCzm682WZl" tvg-chno="15" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zoy TV Turcas
+#EXTINF:0001 tvg-id="aiAxUCzm682WZl" tvg-chno="14" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zoy TV Turcas
 https://mio.zoymilton.com/ZoyTurcas/index.m3u8
-#EXTINF:0001 tvg-id="zBnDeXzf6y9yBT" tvg-chno="16" group-title="famelack (bo) [bo] [False]" tvg-logo="", ZoyTV Plus
+#EXTINF:0001 tvg-id="zBnDeXzf6y9yBT" tvg-chno="15" group-title="famelack (bo) [bo] [False]" tvg-logo="", ZoyTV Plus
 https://mio.zoymilton.com/ZoyPlus/index.m3u8
