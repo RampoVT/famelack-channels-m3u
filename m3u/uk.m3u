@@ -227,5 +227,7 @@ https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="pmINkM6RSJSVHl" tvg-chno="114" group-title="famelack (uk) [uk] [False]" tvg-logo="", WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
+#EXTINF:0001 tvg-id="M9HwvmHmrMZElD" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="116" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8

@@ -25,7 +25,5 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="PAYFPyuM6WHFCR" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", ТВА (Чернiвцi)
 https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="7fHQSvUqOcWKQu" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Тернопіль 1
-https://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:0001 tvg-id="mzTgarqEQGEgoJ" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", Тюсо
+#EXTINF:0001 tvg-id="mzTgarqEQGEgoJ" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Тюсо
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
