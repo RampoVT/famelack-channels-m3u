@@ -153,10 +153,10 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 #EXTINF:0001 tvg-id="EEWgpub612Jk4L" tvg-chno="77" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
-#EXTINF:0001 tvg-id="Arhd6FvJ684mYa" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto MaLive
-https://live.salto.nl/hls/malive_high.m3u8
-#EXTINF:0001 tvg-id="uijzEdZpPY4boJ" tvg-chno="79" group-title="famelack (nl) [nl] [False]" tvg-logo="", Samen1 TV
+#EXTINF:0001 tvg-id="uijzEdZpPY4boJ" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:0001 tvg-id="gWYRYemYkNyMGQ" tvg-chno="79" group-title="famelack (nl) [nl] [False]" tvg-logo="", SBS6 Classics
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:0001 tvg-id="4qAiXmvkgXlKqP" tvg-chno="80" group-title="famelack (nl) [nl] [False]" tvg-logo="", Schie TV (576i)
 https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
 #EXTINF:0001 tvg-id="N4Ek6KWXUdPOHS" tvg-chno="81" group-title="famelack (nl) [nl] [False]" tvg-logo="", Sleutelstad TV
@@ -209,9 +209,11 @@ https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 #EXTINF:0001 tvg-id="kZctHcNGqGr4Cb" tvg-chno="105" group-title="famelack (nl) [nl] [False]" tvg-logo="", WOS TV
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="lVcADaz4AhkZNS" tvg-chno="106" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer
+#EXTINF:0001 tvg-id="Zc9qOiJNX7q0Hk" tvg-chno="106" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Rock x Metal
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="lVcADaz4AhkZNS" tvg-chno="107" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="107" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
+#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="108" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:0001 tvg-id="X4jo6eNxdULfDS" tvg-chno="108" group-title="famelack (nl) [nl] [False]" tvg-logo="", Дождь
+#EXTINF:0001 tvg-id="X4jo6eNxdULfDS" tvg-chno="109" group-title="famelack (nl) [nl] [False]" tvg-logo="", Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8

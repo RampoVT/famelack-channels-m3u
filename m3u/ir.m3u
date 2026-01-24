@@ -75,15 +75,17 @@ https://hls.oxir.live/hls/stream.m3u8
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:0001 tvg-id="Z0k0qEYEWnFz7F" tvg-chno="38" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
+#EXTINF:0001 tvg-id="gm4xqddWtJR9Ev" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="40" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="40" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
+#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="41" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="41" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
+#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="42" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="42" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
+#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="43" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="43" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
+#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="44" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="3CG7FQ47ykhGlU" tvg-chno="44" group-title="famelack (ir) [ir] [False]" tvg-logo="", YourTime TV
+#EXTINF:0001 tvg-id="3CG7FQ47ykhGlU" tvg-chno="45" group-title="famelack (ir) [ir] [False]" tvg-logo="", YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
