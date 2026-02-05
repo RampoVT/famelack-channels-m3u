@@ -8,7 +8,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #EXTINF:0001 tvg-id="SNgcmaFApg3jut" tvg-chno="4" group-title="famelack (ae) [ae] [False]" tvg-logo="", Abu Dhabi TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:0001 tvg-id="kkVzrzXzjFuUCN" tvg-chno="5" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8?ads.vf=ZxX1AzlJ9ma
 #EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="6" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="7" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
