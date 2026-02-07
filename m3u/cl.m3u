@@ -43,14 +43,14 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:0001 tvg-id="ratiMYbPjlz1Pp" tvg-chno="22" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:0001 tvg-id="mboCNwiMaOzg2v" tvg-chno="23" group-title="famelack (cl) [cl] [False]" tvg-logo="", Girovisual
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="nG7lFRDfSfbs7Z" tvg-chno="24" group-title="famelack (cl) [cl] [False]" tvg-logo="", Holvoet TV (Copiapó)
+#EXTINF:0001 tvg-id="nG7lFRDfSfbs7Z" tvg-chno="23" group-title="famelack (cl) [cl] [False]" tvg-logo="", Holvoet TV (Copiapó)
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="B06Trbkq5ZZMBH" tvg-chno="25" group-title="famelack (cl) [cl] [False]" tvg-logo="", ITV Patagonia
+#EXTINF:0001 tvg-id="B06Trbkq5ZZMBH" tvg-chno="24" group-title="famelack (cl) [cl] [False]" tvg-logo="", ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="6uP6CNEGYjRRQY" tvg-chno="26" group-title="famelack (cl) [cl] [False]" tvg-logo="", Kanade
+#EXTINF:0001 tvg-id="6uP6CNEGYjRRQY" tvg-chno="25" group-title="famelack (cl) [cl] [False]" tvg-logo="", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:0001 tvg-id="LtuGw8CUEvQRPo" tvg-chno="26" group-title="famelack (cl) [cl] [False]" tvg-logo="", La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:0001 tvg-id="O37bey4UFDgp1Q" tvg-chno="27" group-title="famelack (cl) [cl] [False]" tvg-logo="", Latina Network TV (576i)
 https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="rFCQYWbNPQlvWE" tvg-chno="28" group-title="famelack (cl) [cl] [False]" tvg-logo="", MTNA TV
@@ -121,5 +121,3 @@ https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="61" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="QlPcuBC4i1UOyT" tvg-chno="62" group-title="famelack (cl) [cl] [False]" tvg-logo="", WappTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?ads.vf=sP7W-jxtEdq

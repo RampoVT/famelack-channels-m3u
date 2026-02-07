@@ -19,5 +19,3 @@ https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:0001 tvg-id="BQkvnkP2YeryWb" tvg-chno="10" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:0001 tvg-id="nAnI0b1T3v96EJ" tvg-chno="11" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL9
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8

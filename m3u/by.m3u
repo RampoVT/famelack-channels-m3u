@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="7IG6c8BLRlAZXA" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="2wJqJ0vbaYddeW" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="yxXfCHd5uHQMJD" tvg-chno="2" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="EkG0p6WwUwsunU" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 24
