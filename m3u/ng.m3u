@@ -7,14 +7,14 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
 #EXTINF:0001 tvg-id="oMYsTXZabJichu" tvg-chno="4" group-title="famelack (ng) [ng] [False]" tvg-logo="", BCS StarCross TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="mgGC7svsZDR6YC" tvg-chno="5" group-title="famelack (ng) [ng] [False]" tvg-logo="", Chosen TV English
+#EXTINF:0001 tvg-id="eDIRsvbznkqNXS" tvg-chno="5" group-title="famelack (ng) [ng] [False]" tvg-logo="", Bride TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
+#EXTINF:0001 tvg-id="mgGC7svsZDR6YC" tvg-chno="6" group-title="famelack (ng) [ng] [False]" tvg-logo="", Chosen TV English
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="bffZLbFoIaHfFI" tvg-chno="6" group-title="famelack (ng) [ng] [False]" tvg-logo="", Coza TV
+#EXTINF:0001 tvg-id="bffZLbFoIaHfFI" tvg-chno="7" group-title="famelack (ng) [ng] [False]" tvg-logo="", Coza TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="IA6T00JQRjMEuI" tvg-chno="7" group-title="famelack (ng) [ng] [False]" tvg-logo="", Dunamis TV
+#EXTINF:0001 tvg-id="IA6T00JQRjMEuI" tvg-chno="8" group-title="famelack (ng) [ng] [False]" tvg-logo="", Dunamis TV
 https://atechgroupuk.site/DTV.m3u8
-#EXTINF:0001 tvg-id="TCsupF1gbD5yUF" tvg-chno="8" group-title="famelack (ng) [ng] [False]" tvg-logo="", Flame TV
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
 #EXTINF:0001 tvg-id="FJT1T5Bg3eMVVa" tvg-chno="9" group-title="famelack (ng) [ng] [False]" tvg-logo="", Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:0001 tvg-id="jsFrBbDFba8Hpn" tvg-chno="10" group-title="famelack (ng) [ng] [False]" tvg-logo="", Kingsview TV
@@ -47,9 +47,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u
 https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="Y3iniHuYhBuCQD" tvg-chno="24" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:0001 tvg-id="xqNDe2nURDi4zM" tvg-chno="25" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Abuja
-https://wazobia.live:8333/channel/wmaxabuja.m3u8
-#EXTINF:0001 tvg-id="Uu8JpSpXEkB3Wk" tvg-chno="26" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Port Harcourt
+#EXTINF:0001 tvg-id="Uu8JpSpXEkB3Wk" tvg-chno="25" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Port Harcourt
 https://wazobia.live:8333/channel/wmaxph.m3u8
-#EXTINF:0001 tvg-id="roS6e38nLtSy8d" tvg-chno="27" group-title="famelack (ng) [ng] [False]" tvg-logo="", Whole Word TV
+#EXTINF:0001 tvg-id="roS6e38nLtSy8d" tvg-chno="26" group-title="famelack (ng) [ng] [False]" tvg-logo="", Whole Word TV
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
