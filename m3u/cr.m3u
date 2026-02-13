@@ -33,8 +33,8 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
-https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
+#EXTINF:0001 tvg-id="KSc2NtlozO0Aw7" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Radio Turrialba TV Sports
+https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:0001 tvg-id="SI3nWhyuVnROLX" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", RTV Chirripó
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:0001 tvg-id="KWtXBE79zVCsGO" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", San José TV

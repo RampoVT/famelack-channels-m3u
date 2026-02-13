@@ -83,9 +83,11 @@ https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:0001 tvg-id="4UCysSCkmhRS1I" tvg-chno="42" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVS
 https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
-#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="43" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
+#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="43" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="44" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
-#EXTINF:0001 tvg-id="UeRJuogpYTAdQE" tvg-chno="44" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards TV
+#EXTINF:0001 tvg-id="UeRJuogpYTAdQE" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
+#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
