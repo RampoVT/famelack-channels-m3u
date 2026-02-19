@@ -35,8 +35,8 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:0001 tvg-id="sfr4boA9nNaI9M" tvg-chno="18" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:0001 tvg-id="7Y9OONvhoyZDMD" tvg-chno="19" group-title="famelack (th) [th] [False]" tvg-logo="", MCOT HD
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="229FKBkhihgZiC" tvg-chno="19" group-title="famelack (th) [th] [False]" tvg-logo="", Lanthung TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 #EXTINF:0001 tvg-id="txJF8huRbSMhOz" tvg-chno="20" group-title="famelack (th) [th] [False]" tvg-logo="", MONO 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:0001 tvg-id="chmBg2GBFNqXoJ" tvg-chno="21" group-title="famelack (th) [th] [False]" tvg-logo="", Police TV
