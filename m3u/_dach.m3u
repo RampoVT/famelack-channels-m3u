@@ -107,10 +107,10 @@ https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/pla
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="W9Bp7ViyOHjoax" tvg-chno="54" group-title="famelack (de) [de] [False]" tvg-logo="", EWTN Germany
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="CiGC7hiaz7dMhM" tvg-chno="55" group-title="famelack (de) [de] [False]" tvg-logo="", Filstalwelle
+#EXTINF:0001 tvg-id="0deWs8tTLyJPRE" tvg-chno="55" group-title="famelack (de) [de] [False]" tvg-logo="", FilmGold Germany
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="CiGC7hiaz7dMhM" tvg-chno="56" group-title="famelack (de) [de] [False]" tvg-logo="", Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="JUHY7ZFUwE8O9n" tvg-chno="56" group-title="famelack (de) [de] [False]" tvg-logo="", Finest TV
-https://media.finest.tv/hls/live.m3u8
 #EXTINF:0001 tvg-id="6ftPsR4C1PTDrI" tvg-chno="57" group-title="famelack (de) [de] [False]" tvg-logo="", Fluss Monster
 https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="WRVOp3UlwzyfTu" tvg-chno="58" group-title="famelack (de) [de] [False]" tvg-logo="", Franken Fernsehen (Nürnberg)

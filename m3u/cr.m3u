@@ -25,16 +25,16 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0001 tvg-id="GD6GIT9MV0x6kz" tvg-chno="13" group-title="famelack (cr) [cr] [False]" tvg-logo="", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:0001 tvg-id="vPLx0tYa5CbY79" tvg-chno="14" group-title="famelack (cr) [cr] [False]" tvg-logo="", Gex TV
-https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="15" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
+#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="14" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="16" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
+#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="15" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
+#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="16" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
+#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:0001 tvg-id="SI3nWhyuVnROLX" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", RTV Chirripó
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:0001 tvg-id="RYVkiPv8DNw6UC" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", Sarapiqui TV
