@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="kkVzrzXzjFuUCN" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8?ads.vf=ZxX1AzlJ9ma
+#EXTINF:0001 tvg-id="o7f2wdALXEzHZs" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="2" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="3" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
